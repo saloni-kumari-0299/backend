@@ -1,0 +1,15 @@
+//
+cluster => storage + processor
+databse => use for storing data
+
+//
+note 
+{
+    title - storing
+    description - string
+}
+
+//
+SCHEMA
+MODEL
+
